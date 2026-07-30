@@ -9,11 +9,11 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Phạm Thị Hồng Hiếu
+&emsp; **Họ và tên:** Trần Văn Hùng
 
-&emsp; **Số điện thoại:** **\*\*\***923
+&emsp; **Số điện thoại:** 0362274561
 
-&emsp; **Email:** hieu.phamth@hcmut.edu.vn
+&emsp; **Email:** hung.tranvan611@hcmut.edu.vn
 
 &emsp; **Trường:** Đại học Bách Khoa TP.HCM
 
