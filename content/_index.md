@@ -11,11 +11,11 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Pham Thi Hong Hieu
+&emsp; **Full Name:** Tran Van Hung
 
-&emsp; **Phone Number:** **\*\*\***923
+&emsp; **Phone Number:** 0362274561
 
-&emsp; **Email:** hieu.phamth@hcmut.edu.vn
+&emsp; **Email:** hung.tranvan611@hcmut.edu.vn
 
 &emsp; **University:** Ho Chi Minh City University of Technology (HCMUT) – Vietnam National University-Ho Chi Minh City (VNU-HCMC)
 
