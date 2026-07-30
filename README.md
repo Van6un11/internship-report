@@ -20,7 +20,7 @@ hugo
 
 ## Deployment
 
-Live at: **https://minyryo.github.io/aws-fcaj-2026/**
+Live at: **https://van6un11.github.io/internship-report/**
 
 Deployed automatically via GitHub Actions (`.github/workflows/deploy.yml`) on every push to `main`.
 
