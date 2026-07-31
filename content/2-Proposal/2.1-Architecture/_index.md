@@ -58,7 +58,7 @@ Both the monolith and the serverless functions write to the same Amazon RDS (Pos
 **Monitoring**  
 Amazon CloudWatch collects logs and metrics from both EC2 instances and Lambda functions, providing a unified view for troubleshooting and performance tracking.
 
-![Court Booking Hybrid Architecture (v6)](/images/2-Proposal/court_booking_hybrid_v6.png)
+![Architecture Diagram](architecture.png)
 
 #### Architecture Walkthrough — 22 Steps
 
